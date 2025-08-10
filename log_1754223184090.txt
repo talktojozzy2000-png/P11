@@ -1,0 +1,12 @@
+2025_08_03_15_13_04 BillingOnProductDetailsResponseSuccess  for subs
+2025_08_03_15_13_04 BillingInitializedSuccess
+2025_08_03_15_13_04 BillingOnProductDetailsResponseSuccess  for inapp
+2025_08_03_15_13_04 BillingOnRestorePurchasingStart Automatically after initialization billing client
+2025_08_03_15_13_04 BillingOnRestorePurchasesResponseSuccess  for queryPurchases: v6.+ productType = subs productIds = Empty
+2025_08_03_15_13_04 BillingOnRestorePurchasesResponseSuccess  for queryPurchases: v6.+ productType = inapp productIds = Empty
+2025_08_03_15_13_04 BillingOnRestorePurchasesResponseSuccess  for queryPurchases: v5.+ productType = inapp productIds = Empty
+2025_08_03_15_13_04 BillingOnRestorePurchasesResponseSuccess  for queryPurchases: v5.+ productType = subs productIds = Empty
+2025_08_03_15_13_04 BillingPurchaseHistoryResponseSuccess  for subs
+2025_08_03_15_13_04 BillingPurchaseHistoryResponseSuccess  for inapp
+2025_08_03_15_13_56 BillingOnPurchasingStart for littlestories_subscription littlestories-basic-yearly littlestories-basic-yearly-freetrial
+2025_08_03_15_14_07 BillingOnPurchasePendingFailed responseCode = USER_CANCELED message = 
